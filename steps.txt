@@ -1,0 +1,17 @@
+Procedure to run the code :
+
+
+step 1	-  Open spyder
+step 2	-  open coding files
+step 3	- Open Anaconda  Prompt
+step 4	- change the envirionment   # conda activate lung
+step 5	- change the file located path   #C:\Users\LENOVO\Downloads\updated Lung cancer
+step 6	- train the dataset   # python cnn.py
+step 7	- run the code to predict  #python clientApp.py
+step 8	- copy the localhost path  ,paste in chrome  # http://127.0.0.1:8000
+step 9	-upload the image
+step 10	-predict the image
+
+
+
+
